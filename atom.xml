@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tony Landis</title>
+ <title>吴少辉</title>
  <link href="http://tonylandis.com/atom.xml" rel="self"/>
  <link href="http://tonylandis.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
